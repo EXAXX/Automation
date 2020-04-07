@@ -1,0 +1,12 @@
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class SelBasics {
+
+	public static void main(String[] args) {
+	System.out.println("Murugan is a Great");
+	
+	System.setProperty("webdriver.gecko.driver","C:\Selenium\geckodriver-v0.23.0-win32\geckodriver.exe")
+	FirefoxDriver driver = new FirefoxDriver();
+	}
+
+}
