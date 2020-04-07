@@ -1,9 +1,0 @@
-
-public class SelBasics {
-
-	public static void main(String[] args) {
-		System.out.println("Murugan is a Great");
-
-	}
-
-}
