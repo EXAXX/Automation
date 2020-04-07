@@ -1,3 +1,9 @@
+//Project: Selemium Automation for Ticket booking System
+//Author: Murugan Ethiraj
+//Date Created: 07/04/2020
+//Last Modified:07/04/2020
+
+
 package login;
 
 import org.openqa.selenium.By;
@@ -12,7 +18,7 @@ public class launchChrome {
 	@Test
 
 	public void launchChrome(){
-		// Chromebrowser
+		// this function is to Launch the chrome browser
 	
 	System.setProperty("webdriver.chrome.driver","C:\\Automation\\chromedriver.exe");	
 	ChromeDriver driver = new ChromeDriver();
