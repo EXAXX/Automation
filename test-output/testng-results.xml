@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14656" started-at="2020-04-07T21:41:26Z" finished-at="2020-04-07T21:41:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14656" started-at="2020-04-07T21:41:26Z" finished-at="2020-04-07T21:41:41Z">
+      <class name="login.launchChrome">
+        <test-method status="PASS" signature="launchChrome()[pri:0, instance:login.launchChrome@4f933fd1]" name="launchChrome" duration-ms="14542" started-at="2020-04-07T21:41:26Z" finished-at="2020-04-07T21:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChrome -->
+      </class> <!-- login.launchChrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
