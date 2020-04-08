@@ -1,0 +1,7 @@
+name: Sample Suite
+configFailurePolicy: skip
+tests:
+  - name: Learning Jenkins
+    classes:
+      - login.launchChrome
+
